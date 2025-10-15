@@ -11,7 +11,8 @@ This project implements an **AI-powered ticket support system** that groups supp
 ## Usage
 1. Clone the repository:
 
-git clone <repo_url>
+git clone https://github.com/Bhavani-Sakhamuri/AI_Ticket_Support/
+
 cd AI_Ticket_Support
 
 
@@ -40,3 +41,4 @@ streamlit run app_ticket_support.py
 * Sentence-Transformers
 * PyTorch
 * Pandas
+
